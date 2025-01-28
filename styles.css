@@ -54,3 +54,7 @@ footer {
     color: #fff;
     position: relative;
 }
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
